@@ -6,8 +6,6 @@ TEXMFLOCAL /app/extensions/TexLive/texmf-local
 TEXMFSYSCONFIG /app/extensions/TexLive/2018/texmf-config
 TEXMFSYSVAR /app/extensions/TexLive/2018/texmf-var
 TEXMFVAR /app/extensions/TexLive/.texlive2018/texmf-var
-binary_aarch64-linux 1
-binary_i386-linux 1
 binary_x86_64-linux 1
 collection-latex 1
 collection-latexrecommended 1
