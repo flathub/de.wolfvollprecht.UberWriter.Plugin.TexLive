@@ -13,7 +13,7 @@
         "cflags": "-O2 -g",
         "cxxflags": "-O2 -g",
         "env": {
-            "PATH": "/app/extensions/TexLive/bin:/app/extensions/TexLive/2019/bin/x86_64-linux:/app/bin:/usr/bin"
+            "PATH": "/app/extensions/TexLive/bin:/app/extensions/TexLive/2018/bin/x86_64-linux:/app/bin:/usr/bin"
         }
     },
     "cleanup": ["/bin/wget"],
