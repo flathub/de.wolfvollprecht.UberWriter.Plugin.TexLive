@@ -2,6 +2,7 @@
     "id": "de.wolfvollprecht.UberWriter.Plugin.TexLive",
     "runtime": "de.wolfvollprecht.UberWriter",
     "branch": "beta",
+    "runtime-version": "beta",
     "sdk": "org.gnome.Sdk//3.36",
     "build-extension": true,
     "separate-locales": false,
