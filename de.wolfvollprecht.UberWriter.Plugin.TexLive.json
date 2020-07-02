@@ -60,7 +60,7 @@
                 {
                     "type":"file",
                     "url": "http://mirrors.ctan.org/systems/texlive/Images/texlive.iso",
-                    "sha512": "7b7f0dd0eab3bfffe52c5cd1139c7f75d029b9ff4c4ce0e57e06834705522f4ec0c02cd99a80b053c6619abda51c20a60f8e91e91781bdc2b9b60fc2e5708adb"
+                    "sha512": "7c94bbcff5318e540dc0b03010896185d8985bcc2c2ac11906e831ec583fd574bf9720fce5efc29470c80bafe12f42ddaa392b96c460a27eda94f93c12e7b57d"
                 },
                 {
                     "type": "file",
